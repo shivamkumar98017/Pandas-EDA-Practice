@@ -1,70 +1,83 @@
 # Pandas EDA Practice 📊
 
-Hands-on practice repository for mastering **Pandas** — essential for Data Analysis and Exploratory Data Analysis (EDA).
+Hands-on practice repository for mastering **Pandas** — one of the most important libraries for Data Analysis and Exploratory Data Analysis (EDA).
 
-## Topics Covered
+---
 
-1. **Pandas Introduction**
-   - What is Pandas?
-   - Series and DataFrame basics
+## 📌 Overview
 
-2. **Loading Data**
-   - Read CSV files
-   - Read Excel files
-   - Basic file operations
+This repository contains structured Jupyter notebooks covering Pandas from basics to intermediate level, with multiple practice sets focused on real-world data handling and analysis.
 
-3. **Data Inspection**
-   - `head()`, `tail()`, `info()`, `describe()`
-   - Shape and columns
+---
 
-4. **Selecting Columns & Filtering**
-   - Single / Multiple column selection
-   - Conditional filtering & Boolean indexing
+## 📚 Topics Covered
 
-5. **Missing Values**
-   - `isnull()`, `notnull()`, `fillna()`, `dropna()`
+| # | Topic | Description |
+|---|-------|-------------|
+| 01 | Series | Creating and working with Pandas Series |
+| 02 | DataFrame | Core DataFrame operations |
+| 03 | CSV Basics | Reading and exploring CSV files |
+| 04 | loc & iloc | Label-based and index-based selection |
+| 05-06 | Practice Sets | Hands-on filtering and selection practice |
+| 07 | Practice 0.3 | Additional practice exercises |
+| 08 | Missing Data | Handling null values (`fillna`, `dropna`) |
+| 09-10 | Advanced Practice | Cleaning, transformation & analysis practice |
 
-6. **Data Cleaning**
-   - Removing duplicates
-   - Handling incorrect values
-   - Data type conversion
+---
 
-7. **Feature Creation**
-   - Creating new columns
-   - Applying transformations
+## 🗂️ Repository Structure
 
-8. **GroupBy Operations**
-   - Aggregations & Summary statistics
+```text
+Pandas-EDA-Practice/
+├── 01_Series.ipynb
+├── 02_DataFrame.ipynb
+├── 03_csv_basics.ipynb
+├── 04_loc_and_iloc.ipynb
+├── 05_Practice_0_1.ipynb
+├── 06_Practice_0_2.ipynb
+├── 07_Practice_0.3
+├── 08_Dealing_with_missing_data.ipynb
+├── 09_Practice_04.ipynb
+└── 10_Practice_05.ipynb
+```
 
-9. **Merge & Join**
-   - Inner, Left, Right, Outer Joins
+---
 
-10. **Exploratory Data Analysis (EDA)**
-    - Dataset exploration
-    - Identifying trends and patterns
+## 🚀 How to Use
 
-11. **Pandas Project**
-    - Real-world data analysis project
-    - End-to-end workflow
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shivamkumar98017/Pandas-EDA-Practice.git
+   ```
+2. Open notebooks in sequence
+3. Run and experiment with the code
+4. Try applying the same techniques on your own datasets
 
-## How to Use
+---
 
-1. Open the notebooks in order
-2. Run and experiment with the code
-3. Practice the exercises yourself
-4. Apply the same techniques on your own datasets
+## 🎯 Learning Goals
 
-## Technologies Used
+- Confidently load, inspect, and clean data using Pandas
+- Perform filtering, selection, and transformation efficiently
+- Handle missing values properly
+- Build a strong foundation for Data Analytics and Machine Learning projects
+
+---
+
+## 🛠️ Tech Stack
 
 - Python
 - Pandas
 - Jupyter Notebook
 
-## Learning Goal
+---
 
-To build strong data analysis skills using Pandas and create a solid foundation for Data Analytics, Machine Learning, and AI projects.
-
-## Author
+## 👤 Author
 
 **Shivam Kumar**  
-[GitHub](https://github.com/shivamkumar98017)
+AI/ML Enthusiast  
+[GitHub](https://github.com/shivamkumar98017) • [LinkedIn](https://www.linkedin.com/in/shivam-kumar-b24677431)
+
+---
+
+⭐ If you find this repository helpful, feel free to star it!
