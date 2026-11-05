@@ -1,12 +1,27 @@
-# Pandas EDA Practice 📊
+# Pandas EDA Practice
 
-Hands-on practice repository for mastering **Pandas** — one of the most important libraries for Data Analysis and Exploratory Data Analysis (EDA).
+A structured practice repository for developing proficiency in **Pandas**, the primary library for data manipulation and exploratory data analysis in Python.
 
 ---
 
 ## Overview
 
-This repository contains structured Jupyter notebooks covering Pandas from basics to intermediate level, with multiple practice sets focused on data handling and analysis.
+This repository contains sequenced Jupyter notebooks that guide learners from foundational Pandas concepts to practical data cleaning and analysis techniques. The material is designed to build the skills required for real-world data analysis and machine learning preprocessing pipelines.
+
+Emphasis is placed on clarity, systematic progression, and hands-on practice.
+
+---
+
+## Learning Objectives
+
+By completing this repository, learners will be able to:
+
+- Create and work with Pandas Series and DataFrames
+- Load and inspect tabular data from CSV files
+- Perform precise row and column selection using `loc` and `iloc`
+- Filter datasets based on conditions
+- Identify and handle missing values effectively
+- Apply basic data cleaning and transformation techniques
 
 ---
 
@@ -14,14 +29,13 @@ This repository contains structured Jupyter notebooks covering Pandas from basic
 
 | # | Topic | Description |
 |---|-------|-------------|
-| 01 | Series | Creating and working with Pandas Series |
-| 02 | DataFrame | Core DataFrame operations |
-| 03 | CSV Basics | Reading and exploring CSV files |
-| 04 | loc & iloc | Label-based and index-based selection |
-| 05-06 | Practice Sets | Hands-on filtering and selection practice |
-| 07 | Practice 03 | Additional practice exercises |
-| 08 | Missing Data | Handling null values (`fillna`, `dropna`) |
-| 09-10 | Advanced Practice | Cleaning, transformation & analysis practice |
+| 01 | Series | Creating and manipulating Pandas Series |
+| 02 | DataFrame | Core DataFrame operations and attributes |
+| 03 | CSV Basics | Reading and initial exploration of CSV data |
+| 04 | loc & iloc | Label-based and integer-based selection |
+| 05–07 | Practice Sets | Filtering, selection, and transformation exercises |
+| 08 | Missing Data | Detection and handling of null values |
+| 09–10 | Advanced Practice | Cleaning and analytical practice notebooks |
 
 ---
 
@@ -49,35 +63,33 @@ Pandas-EDA-Practice/
    ```bash
    git clone https://github.com/shivamkumar98017/Pandas-EDA-Practice.git
    ```
-2. Open notebooks in sequence
-3. Run and experiment with the code
-4. Try applying the same techniques on your own datasets
+2. Open the notebooks in sequential order using Google Colab or Jupyter Notebook.
+3. Execute cells carefully and experiment by modifying the code.
+4. Attempt the practice notebooks independently to reinforce learning.
 
 ---
 
-## Learning Goals
+## Recommended Prerequisites
 
-- Confidently load, inspect, and clean data using Pandas
-- Perform filtering, selection, and transformation efficiently
-- Handle missing values properly
-- Build a strong foundation for Data Analytics and Machine Learning projects
+- Basic Python (variables, lists, dictionaries, functions)
+- Familiarity with Jupyter Notebook environment
 
 ---
 
 ## Tech Stack
 
-- Python
+- Python 3
 - Pandas
-- Jupyter Notebook
+- Jupyter Notebook / Google Colab
 
 ---
 
 ## Author
 
 **Shivam Kumar**  
-AI/ML Enthusiast  
+AI/ML Enthusiast | Aspiring Machine Learning Engineer  
 [GitHub](https://github.com/shivamkumar98017) • [LinkedIn](https://www.linkedin.com/in/shivam-kumar-b24677431)
 
 ---
 
-⭐ If you find this repository helpful, feel free to star it!
+*This repository is part of a structured learning path covering Core Python → Advanced Python → NumPy → Pandas → Machine Learning.*
