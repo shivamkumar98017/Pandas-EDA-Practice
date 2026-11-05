@@ -4,13 +4,13 @@ Hands-on practice repository for mastering **Pandas** — one of the most import
 
 ---
 
-## 📌 Overview
+## Overview
 
-This repository contains structured Jupyter notebooks covering Pandas from basics to intermediate level, with multiple practice sets focused on real-world data handling and analysis.
+This repository contains structured Jupyter notebooks covering Pandas from basics to intermediate level, with multiple practice sets focused on data handling and analysis.
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 | # | Topic | Description |
 |---|-------|-------------|
@@ -19,13 +19,13 @@ This repository contains structured Jupyter notebooks covering Pandas from basic
 | 03 | CSV Basics | Reading and exploring CSV files |
 | 04 | loc & iloc | Label-based and index-based selection |
 | 05-06 | Practice Sets | Hands-on filtering and selection practice |
-| 07 | Practice 0.3 | Additional practice exercises |
+| 07 | Practice 03 | Additional practice exercises |
 | 08 | Missing Data | Handling null values (`fillna`, `dropna`) |
 | 09-10 | Advanced Practice | Cleaning, transformation & analysis practice |
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```text
 Pandas-EDA-Practice/
@@ -35,7 +35,7 @@ Pandas-EDA-Practice/
 ├── 04_loc_and_iloc.ipynb
 ├── 05_Practice_0_1.ipynb
 ├── 06_Practice_0_2.ipynb
-├── 07_Practice_0.3
+├── 07_practice_03.ipynb
 ├── 08_Dealing_with_missing_data.ipynb
 ├── 09_Practice_04.ipynb
 └── 10_Practice_05.ipynb
@@ -43,7 +43,7 @@ Pandas-EDA-Practice/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
@@ -55,7 +55,7 @@ Pandas-EDA-Practice/
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 - Confidently load, inspect, and clean data using Pandas
 - Perform filtering, selection, and transformation efficiently
@@ -64,7 +64,7 @@ Pandas-EDA-Practice/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
@@ -72,7 +72,7 @@ Pandas-EDA-Practice/
 
 ---
 
-## 👤 Author
+## Author
 
 **Shivam Kumar**  
 AI/ML Enthusiast  
