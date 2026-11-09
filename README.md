@@ -22,6 +22,8 @@ By completing this repository, learners will be able to:
 - Filter datasets based on conditions
 - Identify and handle missing values effectively
 - Apply basic data cleaning and transformation techniques
+- Perform GroupBy operations and aggregations
+- Use multi-level grouping and custom aggregations
 
 ---
 
@@ -36,6 +38,7 @@ By completing this repository, learners will be able to:
 | 05–07 | Practice Sets | Filtering, selection, and transformation exercises |
 | 08 | Missing Data | Detection and handling of null values |
 | 09–10 | Advanced Practice | Cleaning and analytical practice notebooks |
+| 11 | GroupBy & Aggregation | Grouping data, aggregations, transform, and practice exercises |
 
 ---
 
@@ -52,7 +55,8 @@ Pandas-EDA-Practice/
 ├── 07_practice_03.ipynb
 ├── 08_Dealing_with_missing_data.ipynb
 ├── 09_Practice_04.ipynb
-└── 10_Practice_05.ipynb
+├── 10_Practice_05.ipynb
+└── 11_GroupBy_and_Aggregation.ipynb
 ```
 
 ---
