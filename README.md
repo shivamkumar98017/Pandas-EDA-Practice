@@ -13,7 +13,24 @@
   <img src="https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-success" alt="Level">
+  <img src="https://img.shields.io/badge/Step-05%20of%2005-blueviolet" alt="Step">
 </p>
+
+---
+
+### 📚 Recommended Learning Path
+
+Follow this exact sequence for the best results:
+
+| Step | Repository | Focus |
+|:----:|------------|-------|
+| 01 | [Python Essentials](https://github.com/shivamkumar98017/Python-Essential) | Core Python fundamentals |
+| 02 | [Python for AI/ML Foundations](https://github.com/shivamkumar98017/py-aiml-foundations) | Intermediate + Advanced Python |
+| 03 | [SQL Practice](https://github.com/shivamkumar98017/SQL) | Analytical SQL queries |
+| 04 | [NumPy Playground](https://github.com/shivamkumar98017/numpy-playground) | Numerical computing with NumPy |
+| **05** | **[Pandas EDA Practice](https://github.com/shivamkumar98017/Pandas-EDA-Practice)** ← **You are here** | Data Analysis & Exploratory Data Analysis |
+
+> This is the final step of the foundation track. After this, you are ready for Machine Learning projects.
 
 ---
 
@@ -85,6 +102,8 @@ By completing this repository, you will be able to:
 - Basic Python (variables, lists, dictionaries, functions, loops)
 - Familiarity with Jupyter Notebook or Google Colab
 
+> Recommended: Complete **Python Essentials** → **Python for AI/ML Foundations** → **SQL** → **NumPy Playground** first.
+
 ---
 
 ## Tech Stack
@@ -113,10 +132,3 @@ AI/ML Engineer • Cybersecurity Enthusiast
 Motihari, Bihar
 
 [GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com) • [Instagram](https://www.instagram.com/shivamkumar98017/)
-
----
-
-<p align="center">
-  <sub>Part of a structured learning path:<br>
-  <b>Core Python → Advanced Python → NumPy → Pandas → Machine Learning</b></sub>
-</p>
