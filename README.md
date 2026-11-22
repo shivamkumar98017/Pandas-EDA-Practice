@@ -56,6 +56,8 @@ By completing this repository, you will be able to:
 - Perform precise row & column selection using `loc` and `iloc`
 - Filter datasets based on multiple conditions
 - Detect and handle missing values effectively
+- Clean and transform string data (strip, normalize whitespace, etc.)
+- Detect and remove duplicate rows (full & subset-based)
 - Apply cleaning and transformation techniques
 - Perform GroupBy operations and meaningful aggregations
 
@@ -76,6 +78,7 @@ By completing this repository, you will be able to:
 | 09 | `09_Practice_04.ipynb` | Cleaning practice |
 | 10 | `10_Practice_05.ipynb` | Analytical practice |
 | 11 | `11_Practice_06.ipynb` | GroupBy & Aggregation |
+| 12 | `12_Practice_07.ipynb` | Duplicates + String Cleaning |
 
 ---
 
