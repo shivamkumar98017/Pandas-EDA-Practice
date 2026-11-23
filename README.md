@@ -36,12 +36,13 @@ Follow this exact sequence for the best results:
 
 ## Overview
 
-This repository takes you from **core Pandas concepts** to practical data cleaning and analysis through carefully sequenced Jupyter notebooks.
+This repository takes you from **core Pandas concepts** to practical data cleaning, analysis, and a complete case study through carefully sequenced Jupyter notebooks.
 
 The goal is to build the exact skills required for:
 - Real-world data preprocessing
 - Machine Learning feature preparation
 - Strong analytical thinking with tabular data
+- End-to-end Exploratory Data Analysis
 
 Emphasis is placed on **clarity, systematic progression, and independent practice**.
 
@@ -60,6 +61,7 @@ By completing this repository, you will be able to:
 - Detect and remove duplicate rows (full & subset-based)
 - Apply cleaning and transformation techniques
 - Perform GroupBy operations and meaningful aggregations
+- Complete a full EDA case study from raw data to insights
 
 ---
 
@@ -79,6 +81,7 @@ By completing this repository, you will be able to:
 | 10 | `10_Practice_05.ipynb` | Analytical practice |
 | 11 | `11_Practice_06.ipynb` | GroupBy & Aggregation |
 | 12 | `12_Practice_07.ipynb` | Duplicates + String Cleaning |
+| 13 | `13_Case_Study.ipynb` | End-to-end EDA Case Study |
 
 ---
 
@@ -95,6 +98,8 @@ By completing this repository, you will be able to:
 3. Run every cell carefully and experiment by modifying the code.
 
 4. Attempt the practice notebooks independently to reinforce learning.
+
+5. Finish with the **Case Study** notebook to apply everything together.
 
 > Tip: You can also open any notebook directly in Colab by clicking the badge on GitHub.
 
@@ -125,6 +130,7 @@ A reviewer can clearly observe:
 - Structured learning instead of random tutorials
 - Strong focus on data cleaning and selection (the most used skills)
 - Multiple independent practice notebooks
+- A complete end-to-end case study that ties all concepts together
 
 ---
 
